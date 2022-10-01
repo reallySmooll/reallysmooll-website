@@ -1,2 +1,2 @@
-# reallysmooll.github.io
+# reallysmooll-website
 My website.
